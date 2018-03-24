@@ -1,0 +1,45 @@
+.admintitle
+{
+	background-color:	#701010;
+	color:#fff;
+	margin-left:70px;
+	margin-right:70px;
+	height:150px;
+	line-height:150px;
+
+}
+
+.dashboard
+{
+	
+	background-color:#ffff99;
+	color:#999;
+	margin-left:70px;
+	margin-right:70px;
+	height:120px;
+	font-size:85px;
+	
+	
+}
+
+.abc
+{
+	
+	background-color:#ffff99;
+	color:#999;
+	margin-left:70px;
+	margin-right:70px;
+	height:50%;
+
+}
+
+.xyz
+{
+	
+	background-color:#ffff99;
+	color:#999;
+	margin-left:70px;
+	margin-right:70px;
+	height:230px;
+
+}
